@@ -1,0 +1,24 @@
+body{
+    background-color: #E5E5E5;
+}
+.navbar img{
+    width: 30px;
+    
+}
+.navbar{
+    height: 60px;
+}
+.container-fluid{
+    width: 1000px;
+}
+.player img{
+    width: 56px;
+    
+}
+main{
+    max-width: 870px;
+}
+.top-players{
+    background-color: #ffffff;
+    border-radius: 10px;
+}
