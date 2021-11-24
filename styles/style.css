@@ -22,3 +22,41 @@ main{
     background-color: #ffffff;
     border-radius: 10px;
 }
+.blog img{
+    width: 177px;
+}
+.footer{
+    padding-left: 140px;
+}
+.course{
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 350px;
+}
+.card-footer{
+    border-top: none;
+    background-color: #ffffff;
+}
+.card img{
+    width: 300px;
+   padding-top: 10px;
+    padding-left: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+}
+.card-text{
+    color: #ED6B4F;
+}
+.chacked{
+    color: gold;
+}
+.card-time{
+    margin-left: 75px;
+    background-color: #FF4A60;
+    color: white;
+    padding: 3px 6px;
+    border-radius: 8px;
+}
